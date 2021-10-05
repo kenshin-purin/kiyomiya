@@ -115,7 +115,8 @@ p {
 
 /*<section>-----.section_title(共通)*/
 .section_title {
-    width: 160px;       
+    width: 160px; 
+    z-index: 10;      
 }
 
 /*<section>-----.section_title_ja(共通)*/
@@ -126,11 +127,12 @@ p {
 
 /*<section>-----.section_title_ja h2*/
 .section_title_ja h2 {
-    font-size: 1.8rem;
-    font-weight: 500;
+    font-size: 2.2rem;
+    font-weight: 600;
     border-top: solid 1.5px #729B7F; 
 
     text-align: center;
+    
 }
 
 /*<section>-----.section_title_en(共通)*/
