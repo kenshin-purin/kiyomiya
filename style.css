@@ -920,6 +920,7 @@ p {
 /*<contact>-----.section_title*/
 .contact_section_title {
     position: absolute;
+    z-index: 2;
 }
 .contact_title_sav_en,.contact_section_title_ja h2,   .product_title_sav_en,.product_section_title_ja h2{
     color: #fff    ;
