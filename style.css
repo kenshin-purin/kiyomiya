@@ -635,7 +635,7 @@ p {
 /*<product>-----.product_item01*/
 .product_item01 {
     overflow: hidden;
-    
+
     text-align: right;
     
     margin-top: -240px;
@@ -1761,6 +1761,9 @@ p {
         max-width: 240px;
 
         padding: 2%;
+    }
+    .product_item01 {
+        overflow: visible;
     }
     .product_icon {
         width: 24px;
