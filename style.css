@@ -634,6 +634,8 @@ p {
 
 /*<product>-----.product_item01*/
 .product_item01 {
+    overflow: hidden;
+    
     text-align: right;
     
     margin-top: -240px;
